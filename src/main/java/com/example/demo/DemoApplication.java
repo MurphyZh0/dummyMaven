@@ -10,4 +10,9 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
+	private static void dummy() {
+		int i = 1;
+		int j = 2;
+	}
+
 }
